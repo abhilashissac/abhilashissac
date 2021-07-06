@@ -5,12 +5,22 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- ⚡ Fun fact: 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
+
+- 👋 Hi, I’m @abhilashissac
+
+- 👀 I’m interested in DevOps and Music
+
+- 🌱 I’m currently learning how to automate workflows using GitHub actions
+
+- 🔭 I’m currently working on GitHub Actions and implementing DevOps practices for Enterprise Mobile Solutions
+
+- 👯 I’m looking to collaborate on GitHub Actions
+
+- 📫 How to reach me: abhilash.issac@philips.com
+
+- 💬 Ask me about GitHub
